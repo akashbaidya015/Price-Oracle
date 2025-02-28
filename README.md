@@ -69,4 +69,4 @@ cd phone-price-prediction
 pip install -r requirements.txt
 
 # Run Streamlit UI
-streamlit run app.py
+streamlit enhanced_app.py
